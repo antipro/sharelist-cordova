@@ -19,8 +19,14 @@
 # install cordova (and prepare your android environment)
 npm install -g cordova
 
+# make a 'www' soft link to dist folder of sharelist-client
+ln -s <path to sharelist-client/dist> www
+
 # install dependencies
 npm install
+
+# install android platform
+cordova platform add android
 
 # run android
 cordova run android
