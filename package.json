@@ -13,16 +13,18 @@
   "dependencies": {
     "cordova-android": "^6.4.0",
     "cordova-plugin-app-event": "^1.2.1",
+    "cordova-plugin-backbutton": "^0.3.0",
     "cordova-plugin-device": "^1.1.7",
     "cordova-plugin-local-notification": "^0.8.4",
-    "cordova-plugin-whitelist": "^1.3.3",
-    "cordova-plugin-network-information": "^1.3.4"
+    "cordova-plugin-network-information": "^1.3.4",
+    "cordova-plugin-whitelist": "^1.3.3"
   },
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
       "cordova-plugin-local-notification": {},
-      "cordova-plugin-network-information": {}
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-backbutton": {}
     },
     "platforms": [
       "android"
