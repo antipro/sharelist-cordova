@@ -30,3 +30,10 @@ cordova platform add android
 
 # run android
 cordova run android
+```
+
+## Preview
+### Mobile(Android)
+
+![Android](http://onmdsye1w.bkt.clouddn.com/sharelist-cordova1.png)
+![Android](http://onmdsye1w.bkt.clouddn.com/sharelist-cordova2.png)
