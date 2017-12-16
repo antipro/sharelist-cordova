@@ -13,6 +13,10 @@
 * [sharelist-electron](https://gitee.com/antipro/sharelist-electron)
   > desktop wrapper
 
+## Preparation
+
+build or start client program according to guide of [sharelist-client](https://gitee.com/antipro/sharelist-client)
+
 ## Build Setup
 
 ``` bash
@@ -31,6 +35,7 @@ cordova platform add android
 # run android
 cordova run android
 ```
+Maybe someone can help me to add ios platform :)
 
 ## Preview
 ### Mobile(Android)
