@@ -22,6 +22,10 @@
         <icon density="mdpi" src="res/icon/android/icon-48-mdpi.png" />
         <icon density="hdpi" src="res/icon/android/icon-72-hdpi.png" />
         <icon density="xhdpi" src="res/icon/android/icon-96-xhdpi.png" />
+        <resource-file src="res/icon/android/icon-36-ldpi.png" target="res/drawable-ldpi/icon.png" />
+        <resource-file src="res/icon/android/icon-48-mdpi.png" target="res/drawable-mdpi/icon.png" />
+        <resource-file src="res/icon/android/icon-72-hdpi.png" target="res/drawable-hdpi/icon.png" />
+        <resource-file src="res/icon/android/icon-96-xhdpi.png" target="res/drawable-xhdpi/icon.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
