@@ -40,5 +40,5 @@ Maybe someone can help me to add ios platform :)
 ## Preview
 ### Mobile(Android)
 
-![Android](http://onmdsye1w.bkt.clouddn.com/sharelist-cordova1.png)
-![Android](http://onmdsye1w.bkt.clouddn.com/sharelist-cordova2.png)
+![Android](http://onmdsye1w.bkt.clouddn.com/sharelist-cordova3.png)
+![Android](http://onmdsye1w.bkt.clouddn.com/sharelist-cordova4.png)
