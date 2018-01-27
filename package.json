@@ -2,6 +2,7 @@
   "name": "cn.gicp.antipro.sharelist",
   "displayName": "Sharelist",
   "version": "1.0.0",
+  "revision": "1",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
   "scripts": {
