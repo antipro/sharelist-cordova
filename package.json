@@ -1,15 +1,17 @@
 {
   "name": "cn.gicp.antipro.sharelist",
   "displayName": "Sharelist",
-  "version": "1.0.0",
-  "revision": "1",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
-  "main": "index.js",
+  "version": "1.0.1",
+  "revision": "2",
+  "description": "A todo list application with share function accross email address.",
   "scripts": {
     "android": "cordova run android --target=oldversion",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Apache Cordova Team",
+  "author": {
+    "name": "antipro",
+    "email": "antipro@163.com"
+  },
   "license": "Apache-2.0",
   "dependencies": {
     "cordova-android": "^6.4.0",
